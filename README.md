@@ -19,3 +19,5 @@ Section 4. Define pseudo random numbers.
            
 References.
            
+           
+The jupyter notebook should run fine.            
